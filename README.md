@@ -1,2 +1,2 @@
 # MyFilms
-An ETL excercise aboout Films
+An ETL excercise about Films
